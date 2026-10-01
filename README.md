@@ -106,7 +106,7 @@ A reproducible evaluation should also include class-wise precision, recall, F1-s
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/non-invasive-glucose-monitoring.git
+git clone https://github.com/harshi43596/non-invasive-glucose-monitoring.git
 cd non-invasive-glucose-monitoring
 ```
 
