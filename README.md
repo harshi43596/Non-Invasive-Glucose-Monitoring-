@@ -60,8 +60,6 @@ The actual sensor acquisition and serial protocol depend on the connected hardwa
 | USB-to-serial interface                  | Serial communication where required |
 | Jumper wires and compatible power supply | Hardware connections                |
 
-An Arduino Uno is also shown in the original prototype diagram. Confirm the exact acquisition and interface arrangement against the physical circuit before reproducing it.
-
 ## Software and Technologies
 
 * Python
