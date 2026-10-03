@@ -125,7 +125,7 @@ pip install -r requirements.txt
 Run the offline model-training script:
 
 ```bash
-python src/train_model.py
+python mlcode.py
 ```
 
 The Raspberry Pi hardware application requires compatible GPIO hardware, a correctly configured serial interface and the appropriate device libraries.
