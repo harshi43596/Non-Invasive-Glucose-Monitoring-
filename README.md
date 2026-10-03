@@ -76,9 +76,9 @@ The supplied CSV contains 1,255 records and the following columns:
 
 | Column | Role                                               |
 | ------ | -------------------------------------------------- |
-| `R`    | Input feature; confirm the exact sensor definition |
-| `IR`   | Input feature; confirm the exact sensor definition |
-| `G`    | Input feature; confirm the exact sensor definition |
+| `R`    | The raw digital value of Red light                 |
+| `IR`   | The raw digital value of Infrared light            |
+| `G`    | Target Blood Glucose concentration                 |
 | `RES`  | Target classification label                        |
 
 The current implementation uses `R`, `IR` and `G` as features and `RES` as the target.
